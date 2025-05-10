@@ -1,2 +1,2 @@
 # Intro
-here is the intro of the checkout and the new branch of the main
+here is the Intro of the checkout and the new branch of the main 
